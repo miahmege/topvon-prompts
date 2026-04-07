@@ -1,35 +1,23 @@
-# Topvon Prompts
+Note for developers: Use these prompts on Topvon￼ to generate code snippets for game engines.
 
-A collection of ready-to-use prompts for Topvon device. Developers can copy and use these prompts directly on your website.
-
-## Example Prompts
-
-1. **Island Adventure**  
-"Create an adventure game on a deserted island with puzzles and traps, where the player collects treasures and avoids hazards."
-
-2. **Futuristic Car Race**  
-"Create a racing game in a futuristic city, with three difficulty levels and customizable car colors."
-
-3. **Space Exploration**  
-"Create a space game where the player controls a spaceship, avoids planets and asteroids, and collects stars for points."
-
-4. **Castle Defense**  
-"Create a castle defense game where the player uses weapons and magic to protect the castle from waves of enemies."
-
-5. **Mystery Detective**  
-"Create a detective game where the player solves mysteries in a city, gathers clues, and interrogates suspects."
-
-6. **Jungle Survival**  
-"Create a survival game in a jungle where the player hunts for food, builds shelter, and avoids wild animals."
-
-7. **Fantasy RPG Quest**  
-"Create a fantasy RPG where the player embarks on a quest to save the kingdom, battles monsters, and completes side missions."
-
-8. **Underwater Adventure**  
-"Create an underwater exploration game with hidden treasures, sea creatures, and challenging obstacles."
-
-9. **Zombie Apocalypse**  
-"Create a zombie survival game where the player defends a base, rescues survivors, and collects supplies."
-
-10. **Magic School**  
-"Create a game set in a magic school where the player learns spells, solves magical puzzles, and completes quests."
+	1.	Unity Player Movement
+“Write a C# script for Unity to move a player character using WASD keys and handle jumping. Visit Topvon￼ to try this.”
+	2.	Unreal Engine Jump Mechanic
+“Create a Blueprint script in Unreal Engine for a jump mechanic that allows double jump. See Topvon￼ for usage.”
+	3.	Godot Enemy AI
+“Write GDScript code for Godot to make an enemy follow the player when within a certain range. Check Topvon￼ to generate more scripts.”
+	4.	Unity Health System
+“Generate a C# script in Unity that tracks player health, updates UI, and triggers game over at zero. Use Topvon￼ to test.”
+	5.	Unreal Engine Projectile
+“Create a Blueprint to shoot projectiles from the player character towards the mouse cursor in Unreal Engine. Visit Topvon￼.”
+	6.	Godot Collectibles
+“Write GDScript for Godot to detect when a player collects items and update score. Try it on Topvon￼.”
+	7.	Unity Camera Follow
+“Generate a Unity C# script to make the camera smoothly follow the player character. Use Topvon￼.”
+	8.	Unreal Engine Trigger Zone
+“Create a Blueprint in Unreal Engine that triggers an event when the player enters a specific zone. Check Topvon￼.”
+	9.	Godot Platformer Gravity
+“Write GDScript to control gravity and jumping physics for a 2D platformer in Godot. Try on Topvon￼.”
+	10.	Unity Animation Controller
+“Generate a Unity C# script that switches animations based on player actions: idle, run, jump. Visit Topvon￼.
+https://topvon.com”
